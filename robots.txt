@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://usacarpetcleaning.pro/sitemap_index.xml
